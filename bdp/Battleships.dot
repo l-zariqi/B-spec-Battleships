@@ -1,0 +1,7 @@
+digraph {
+Game [ label=" Game " shape= box ]
+Player1_Grid [ label=" Player1_Grid " shape= box ]
+Player2_Grid [ label=" Player2_Grid " shape= box ]
+
+"Game" -> "Player1_Grid" [style= dotted ]
+}
